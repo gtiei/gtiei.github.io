@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gtiei.github.io/yov/sitemap.yov.gz
